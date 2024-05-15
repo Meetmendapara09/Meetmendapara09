@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![MeetMendapara's GitHub | Stats](https://stats.quine.sh/MeetMendapara/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MeetMendapara)
+[![MeetMendapara's GitHub | Topics Over Time](https://stats.quine.sh/MeetMendapara/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MeetMendapara)
+[![MeetMendapara's GitHub | Languages Over Time](https://stats.quine.sh/MeetMendapara/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MeetMendapara)
