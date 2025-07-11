@@ -1,7 +1,10 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 👋 Hey, I'm Meet Mendapara
 
-Hi, I’m **Meet Mendapara**, a Computer Science student from **Gujarat, India**, passionate about software development, robotics, and web technologies. I love building useful tools and contributing to open-source.
+I'm a Computer Science student passionate about software development, robotics, and web technologies.
 
+I love building useful tools, exploring new tech, and contributing to open-source-whether it's fixing bugs, writing docs, or adding features.
+
+**Always learning. Always building. 🚀**
 ---
 
 ## 🚀 Technical Skills
@@ -18,19 +21,7 @@ I enjoy contributing to open-source—fixing bugs, improving documentation, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meetmendapara09&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetmendapara09&layout=compact&hide_title=true&hide_border=true&theme=radical)
-
----
-
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/meet-mendapara)  
 - [GitHub](https://github.com/Meetmendapara09)  
 - [Email](mailto:meetmendapara09@gmail.com)
-
----
-
-Thanks for stopping by! 🚀
