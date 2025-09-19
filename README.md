@@ -37,8 +37,5 @@ I enjoy contributing to open-source-fixing bugs, improving documentation, and bu
 
 - [GitHub](https://github.com/Meetmendapara09)  
 - [Email](mailto:meetmendapara09@gmail.com)
-- [Leetcod](https://leetcode.com/u/meetmendapara09/)
+- [Leetcode](https://leetcode.com/u/meetmendapara09/)
 - [LinkedIn](https://www.linkedin.com/in/meet-mendapara/)
-
-
-![](https://hit.yhype.me/github/profile?account_id=122281320)
